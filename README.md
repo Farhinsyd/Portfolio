@@ -25,6 +25,13 @@ Developed a system to itegrate with camera to detect vehicles on road and distan
 
 ## **Data Analysis and Visualization**
 1. Video Game Sales Analysis using MY SQL- [Code](https://github.com/Farhinsyd/Data_Analysis)
+Analyzed top Sales of 2016 and average of before and after 2006 sales. Also this project help business to work on predictable number of sales based on the analysis.
+
+![Analysis](https://github.com/Farhinsyd/Portfolio/blob/main/Gamesalesoutput.png)
+
+2. Dashboard Analysis of CO2 Emissions by Different Vehicles- [Code](https://github.com/Farhinsyd/Data_Analysis)
+This project was a part of my studies in Data Analytics. This project will help pollution department to make a right decision to cut off CO2 produced by different kinds of vehicles 
+![Dashboard](https://github.com/Farhinsyd/Portfolio/blob/main/CO2emissiondashboard.png)
 ---
 
 ## **Professional Contribution**
