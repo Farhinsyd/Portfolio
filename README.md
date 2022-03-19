@@ -24,14 +24,30 @@ Developed a system to itegrate with camera to detect vehicles on road and distan
 - Research Data points using Point Cloud Integration
 
 ## **Data Analysis and Visualization**
-1. Video Game Sales Analysis using MY SQL- [Code](https://github.com/Farhinsyd/Data_Analysis)
+**1. Video Game Sales Analysis using MY SQL- [Code](https://github.com/Farhinsyd/Data_Analysis)**
 Analyzed top Sales of 2016 and average of before and after 2006 sales. Also this project help business to work on predictable number of sales based on the analysis.
 
 ![Analysis](https://github.com/Farhinsyd/Portfolio/blob/main/Gamesalesoutput.png)
 
-2. Dashboard Analysis of CO2 Emissions by Different Vehicles- [Code](https://github.com/Farhinsyd/Data_Analysis)
-This project was a part of my studies in Data Analytics. This project will help pollution department to make a right decision to cut off CO2 produced by different kinds of vehicles 
+**2. Dashboard Analysis of CO2 Emissions by Different Vehicles- [Code](https://github.com/Farhinsyd/Data_Analysis)**
+This project was a part of my studies in Data Analytics. This project will help pollution department to make a right decision to cut off CO2 produced by different kinds of vehicles. 
 ![Dashboard](https://github.com/Farhinsyd/Portfolio/blob/main/CO2emissiondashboard.png)
+
+**3. Cancer Analysis using Statisctical and Machine learning Modeling- [Code](https://github.com/Farhinsyd/Data_Analysis)**
+This project helps to analyse cancer detection based on the main features in dataset. It would be important analysis for health department or individuals to take precautions and getting right direction if cancer is detected.
+
+**Logical Regression**
+This Model is 98% accurate to detect the true positive values from dataset.
+The recall is above 90% range which indicates a good learning curve.
+AUC (Area Under Curve) = 0.98 ~ (almost 1) which is very close to ideal.
+**Discriminant Analysis**
+This Model is 97% accurate to detect the true positive values from dataset.
+According to EDA utilizing Pandas Profile Report, the class was unbalanced, and balancing the data sample using SMOTE was required before modelling LDA.
+AUC (Area Under Curve) = 0.97 ~ (approx. 1)
+
+**4. COVID -19 effects on GDP and Employement**
+This is my capstone project in Data Analytics course. This project will help government bodies or private sectors to make employement opportunities in order to balance an economy.
+!!Coming Soon!! 
 ---
 
 ## **Professional Contribution**
