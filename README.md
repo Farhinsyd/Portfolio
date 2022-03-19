@@ -6,9 +6,13 @@ I have been working to develop responsive php Websites and used SQL database and
 
 ## **Skills**
 Programming Languages: PHP, Python, JAVA, Machine Learning
+
 Scripting Languages: HTML, CSS, JavaScript, R Script
+
 Database: MySQL
+
 Tools: Xampp, Anaconda, MySQL Workbench, Tableau, Power BI,
+
 Platforms: Gogle Colaboratory, Microsoft Azure, Amazon Web Services
 
 ---
