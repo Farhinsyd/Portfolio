@@ -12,7 +12,7 @@ Tools: Xampp, Anaconda, MySQL Workbench, Tableau, Power BI,
 Platforms: Gogle Colaboratory, Microsoft Azure, Amazon Web Services
 
 ---
-## ** Web Developer**
+## **Web Developer**
 After completing my bachelors in computer engineering, i have been recruited as a PHP Web developer in local company in india. This position tought me a professional approach to work on IT projects and skilled up my level with certain chellenges of everyday work.
 
 *Technology Covered*
