@@ -28,7 +28,7 @@ Developed a system to itegrate with camera to detect vehicles on road and distan
 - Machine Learning Algorithms and Computer vision techniques
 - Utilized YOLO Architecture Version 3
 - Research Data points using Point Cloud Integration
-
+![OutputVideo](https://github.com/Farhinsyd/Portfolio/blob/main/segmented_video.avi)
 ## **Data Analysis and Visualization**
 
 **1. Video Game Sales Analysis using MY SQL- [Code](https://github.com/Farhinsyd/Data_Analysis)**
