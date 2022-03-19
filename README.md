@@ -13,12 +13,32 @@ Platforms: Gogle Colaboratory, Microsoft Azure, Amazon Web Services
 
 ---
 
+## **Projects Developed/value Add**
+
+#### **Object Detection and Distance Measurement using Artificial Intelliegence**
+Developed a system to itegrate with camera to detect vehicles on road and distance between them to avoid collisions these days. This same system can be used to detect people in mall and find distance between each other in order to keep distance of 2m due to COVID-19 restrictions and implications.
+
+*Technology Covered*
+- Machine Learning Algorithms and Computer vision techniques
+- Utilized YOLO Architecture Version 3
+- Research Data points using Point Cloud Integration
+
+## **Data Analysis and Visualization**
+1. Video Game Sales Analysis using MY SQL- [Code](https://github.com/Farhinsyd/Data_Analysis)
+---
+
 ## **Professional Contribution**
 ## **PHP Web Developer | [Saurabh Web Solution, Gujarat, India](https://saurabhwebsolution.com/)**
----
-## **Projects**
-Object Detection and Distance Measurement using Artificial Intelliegence
-
+Developed effective and lucrative websites by writing code in php and build efficient modules. Also have good experience in database queries. Most time i have spared into troubleshooting errors.
+*Technology Covered*
+- Automated SQL ETL jobs that generates a database to store website contents
+- PHP Language as backend coding and CSS,  HTML for frontend
+- Advanced PHP Frameworks such as LARAVEL and CODE IGNITOR
+ 
+*Websites*
+- https://www.spvpl.com/
+- http://bnpatelphysiotherapy.com/
+ 
 ## **Education**
 - Bachelor of Computer Engineering- Gujarat Technological University, Guajarat, India (2013)
 - Post-Graduation in Artificial Intelligence Architecture, Design, and Implementation- Georgian College, Barrie, CANADA (2021)
