@@ -4,7 +4,7 @@ I have been working to develop responsive php Websites and used SQL database and
 
 ---
 ## **Roadmap**
-![Dashboard](https://github.com/Farhinsyd/Portfolio/blob/main/roadmap.png)
+![Roadmap](https://github.com/Farhinsyd/Portfolio/blob/main/roadmap.png)
 
 ---
 ## **Skills**
