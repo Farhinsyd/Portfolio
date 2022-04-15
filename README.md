@@ -3,7 +3,10 @@ A student of Durham college studying Data Analytics with great enthusism. I have
 I have been working to develop responsive php Websites and used SQL database and other scripting languages like CSS, JAVA Script and Jquery.
 
 ---
+## **Roadmap**
+![Dashboard](https://github.com/Farhinsyd/Portfolio/blob/main/roadmap.png)
 
+---
 ## **Skills**
 Programming Languages: PHP, Python, JAVA, Machine Learning
 
